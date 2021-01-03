@@ -9683,3 +9683,42 @@ textarea.form-control {
     display: none;
   }
 }
+
+@media screen and (max-width: 991px) {
+    .hidetabletforced {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .hidedesktopforced {
+        display: none;
+    }
+}
+
+.image_header_certi {
+    width: 50px;
+    height: 50px;
+}
+
+.logos_certi_nav {
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+.job_within_company {
+    padding-bottom: 10px;
+}
+
+.time_position {
+    font-size: 12px;
+    font-weight: 700;
+    color: #696969;
+}
+
+.global_company {
+    padding-top: 5px;
+}
+
+.company_name {
+    margin-bottom: -10px;
+}
