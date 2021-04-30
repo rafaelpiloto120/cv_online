@@ -9716,9 +9716,13 @@ textarea.form-control {
 }
 
 .global_company {
-    padding-top: 5px;
+    padding-top: 0px;
+    margin-top: -5px;
 }
 
 .company_name {
     margin-bottom: -10px;
+}
+.keyachievement {
+    margin-top: 7px;
 }
